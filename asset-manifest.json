@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ef7a9e4c.css",
+    "main.js": "./static/js/main.cf95af81.js",
+    "static/media/Ghis.jpg": "./static/media/Ghis.6aea0b6f0e9566bd8451.jpg",
+    "static/media/counsellingSystem.png": "./static/media/counsellingSystem.5fcdf316398e993bf886.png",
+    "static/media/Ghis2.jpg": "./static/media/Ghis2.df2f41ea2f5c38338bad.jpg",
+    "index.html": "./index.html",
+    "main.ef7a9e4c.css.map": "./static/css/main.ef7a9e4c.css.map",
+    "main.cf95af81.js.map": "./static/js/main.cf95af81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef7a9e4c.css",
+    "static/js/main.cf95af81.js"
+  ]
+}
